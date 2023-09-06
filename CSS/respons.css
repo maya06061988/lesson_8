@@ -1,0 +1,50 @@
+@media screen and (max-width: 1200px) {
+    .nav {
+        
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .nav {
+        display: none;
+    }
+    .burger-menu {
+        display: block;
+    }
+
+    .testimonials {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 678px) {
+    .nav {
+       
+    }
+
+    .descr-content {
+        display: block;
+    }
+
+    .contact-block {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .nav {
+        
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .nav {
+       
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .nav {
+       
+    }
+}
